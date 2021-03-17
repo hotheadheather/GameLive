@@ -7475,11 +7475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Advanced C#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\FireFlyFireworks.csproj",
+      "projectUniqueName": "C:\\AdvancedC#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\FireFlyFireworks.csproj",
       "projectName": "FireFlyFireworks",
-      "projectPath": "C:\\Advanced C#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\FireFlyFireworks.csproj",
+      "projectPath": "C:\\AdvancedC#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\FireFlyFireworks.csproj",
       "packagesPath": "C:\\Users\\hothe\\.nuget\\packages\\",
-      "outputPath": "C:\\Advanced C#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\obj\\",
+      "outputPath": "C:\\AdvancedC#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hothe\\AppData\\Roaming\\NuGet\\NuGet.Config",

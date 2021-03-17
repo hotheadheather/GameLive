@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QwxMaI/eddQ5yuay0BMPO0pyg2jN9Cqj/z7RLfIy0Twv5pbNK5S5QIBWUv0NOvCz2cYF6U2q3kW7Qs7SU9RS0g==",
+  "dgSpecHash": "8mlvQBxa0qZX/guzEsH0o2pDbpG1mmii2YpW0c3njkuEpVCBm4YNGeqkHdrN9aVz9n+1Au8e4XamP0euRQ6lrQ==",
   "success": true,
-  "projectFilePath": "C:\\Advanced C#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\FireFlyFireworks.csproj",
+  "projectFilePath": "C:\\AdvancedC#\\FireFlySupply\\FireFlyFireworks\\FireFlyFireworks\\FireFlyFireworks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hothe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hothe\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
